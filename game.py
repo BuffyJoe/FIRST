@@ -1,3 +1,2 @@
-print("hello")
-
-print('i added this file')
+import random
+from time import sleep
