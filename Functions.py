@@ -185,7 +185,6 @@ def sign_up():
             x -= 1
         else:
             print('password does not match')
-sign_up()
 def settings():
     setting_opt = ['LOGIN', 'LOG-OUT', 'BUY', 'SELL']
     print(setting_opt)
