@@ -47,7 +47,7 @@ class athlete:
 player_lst = []
 options_lst = ['Match', 'Result', 'Edit', 'settings']
 print('welcome to Soccer Unreal')
-attempts = 1
+attempts = 7
 while attempts:
     attempts -= 1
     name = input("Write player name: ")
